@@ -1,2 +1,2 @@
 # csp-email-assets
-image icons for CSP customer email templates
+Public repo for hosting assets (images, sounds, etc.) in CSP customer email templates.
